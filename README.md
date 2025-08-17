@@ -2,9 +2,6 @@
 
 An interactive Power BI dashboard to analyze sales performance by region, product, and time.
 
-## Preview
-
-
 ## What’s inside
 - `SalesDashboard.pbix` – Full report (use `.pbit` if you need a clean template)
 - `screenshots/` – Key pages of the report
@@ -26,4 +23,8 @@ An interactive Power BI dashboard to analyze sales performance by region, produc
 - (Optional) Data model: Star schema with Date, Product, Customer dims
 
 ## Author
-- Your Name · [Portfolio/LinkedIn if you want]
+- Chetan Zore
+
+#dashboard
+<img width="1272" height="711" alt="overview" src="https://github.com/user-attachments/assets/49739e74-aaea-4c5f-a601-e48f2d3f72c5" />
+
