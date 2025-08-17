@@ -3,8 +3,7 @@
 An interactive Power BI dashboard to analyze sales performance by region, product, and time.
 
 ## Preview
-![Overview](screenshots/overview.png)
-![Product Performance](screenshots/product.png)
+
 
 ## What’s inside
 - `SalesDashboard.pbix` – Full report (use `.pbit` if you need a clean template)
